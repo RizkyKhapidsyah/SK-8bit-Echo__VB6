@@ -1,2 +1,5 @@
 # SK-8bit-Echo__VB6
-Fundamental Pemrograman Visual Basic 6.0 - SK; 8bit Echo
+Fundamental Pemrograman Visual Basic 6.0 - SK; 8bit Echo<br><br>
+<img src="https://github.com/RizkyKhapidsyah/SK-8bit-Echo__VB6/blob/main/result/001.PNG"><br><br>
+Lihat Source Code : <br>
+- <a href="https://github.com/RizkyKhapidsyah/SK-8bit-Echo__VB6/blob/main/Form1.frm">Program</a>
